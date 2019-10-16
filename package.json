@@ -1,0 +1,25 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "hexlet-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hexlet_jest"
+  },
+  "keywords": [
+    "jest",
+    "tests"
+  ],
+  "author": "Victor Zhuravlev",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
