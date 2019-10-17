@@ -1,1 +1,1 @@
-https://travis-ci.com/v1valasvegan/hexlet-jest.svg?branch=master
+[![Build Status](https://travis-ci.com/v1valasvegan/hexlet-jest.svg?branch=master)](https://travis-ci.com/v1valasvegan/hexlet-jest)
