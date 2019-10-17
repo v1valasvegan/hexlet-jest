@@ -1,0 +1,1 @@
+https://travis-ci.com/v1valasvegan/hexlet-jest.svg?branch=master
